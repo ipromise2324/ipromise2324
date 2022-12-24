@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipromise2324
 - 👀 I’m interested in blockchain and Image recognition
-- 🌱 I’m currently learning Pine Script and solidity
+- 🌱 I’m currently learning Pine Script and Solidity
 - 📫 168allen55@gmail.com
 
 <!---

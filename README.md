@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 劉力勳
-- 👀 I’m interested in blockchain and Image recognition
+- 👀 I’m interested in Blockchain and Image recognition
 - 🌱 I’m currently learning Pine Script and Solidity
 - 📫 168allen55@gmail.com
 - :star:艾斯特物聯網科技-實習生

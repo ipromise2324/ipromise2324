@@ -6,7 +6,7 @@
 - :facepunch:台灣區塊鏈協會-工讀生 
 - :fire:中興大學區塊鏈社 課務組長  
 - :v:智能合約與 Dapp 實戰讀書會 | 台灣區塊鏈大學聯盟 & 台大金融科技研究社 & KryptoCamp
-- :metal:TOEIC 895(listening:460/Reading:435)
+- :metal:TOEIC 895(Listening:460/Reading:435)
 
 <!---
 ipromise2324/ipromise2324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,6 @@
 - 👀 I’m interested in Blockchain and Image recognition
 - 🌱 I’m currently learning Pine Script and Solidity
 - 📫 168allen55@gmail.com
-- :boom:https://hackmd.io/?nav=overview
 - :star:艾斯特物聯網科技-實習生
 - :facepunch:台灣區塊鏈協會-工讀生 
 - :fire:NCHU區塊鏈社 課務組長  

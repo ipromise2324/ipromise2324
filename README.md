@@ -1,6 +1,5 @@
 - 👋 Hi, I’m 劉力勳
-- 👀 I’m interested in Blockchain and Image recognition
-- 🌱 I’m currently learning Pine Script and Solidity
+- 👀 I’m interested in Blockchain and Quantitative trading
 - 📫 168allen55@gmail.com
 - 🧠 https://www.youtube.com/@IPromiseSmartContract
 - :star:艾斯特物聯網科技-實習生

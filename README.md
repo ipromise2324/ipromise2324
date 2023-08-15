@@ -1,11 +1,11 @@
 - 👋 Hi, I’m 劉力勳
-- 👀 I’m interested in Blockchain and Quantitative trading
+- 👀 I’m interested in Blockchain
 - 📫 168allen55@gmail.com
 - 🧠 https://www.youtube.com/@IPromiseSmartContract
-- :star:艾斯特物聯網科技-實習生
-- :facepunch:台灣區塊鏈協會-工讀生 
-- :fire:NCHU區塊鏈社 課務組長  
-- :sunglasses:NYCU 研究生
+- :star:ASTER Technology Co Intern
+- :facepunch:Taiwan Blockchain Association Part-time Worker
+- :fire:Course Affairs Leader of NCHU Blockchain Club 
+- :sunglasses:Graduate student at NYCU
 - :metal:TOEIC 895(Listening:460/Reading:435)
 
 <!---

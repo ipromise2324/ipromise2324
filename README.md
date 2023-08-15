@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 劉力勳
+- 👋 Hi, I’m LIU,LI-XUN
 - 👀 I’m interested in Blockchain
 - 📫 168allen55@gmail.com
 - 🧠 https://www.youtube.com/@IPromiseSmartContract

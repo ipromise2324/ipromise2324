@@ -1,9 +1,7 @@
 - 👋 Hi, I’m LIU,LI-XUN
 - 👀 I’m interested in Blockchain
 - 📫 168allen55@gmail.com
-- 🧠 https://www.youtube.com/@IPromiseSmartContract
-- :star:ASTER Technology Co Intern
-- :facepunch:Taiwan Blockchain Association Part-time Worker
+- 🧠 https://www.youtube.com/@IPromiseSmartContract、
 - :fire:Course Affairs Leader of NCHU Blockchain Club 
 - :sunglasses:Graduate student at NYCU
 - :metal:TOEIC 895(Listening:460/Reading:435)

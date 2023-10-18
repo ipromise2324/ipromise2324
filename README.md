@@ -2,10 +2,10 @@
 - 👀 I LOVE Blockchain !!!
 - 🔥 Co-Founder of Ton-Dynasty
 - :sunglasses: Graduate student at NYCU
-- 🎄 https://linktr.ee/eventon
 - 🥇 https://github.com/Ton-Dynasty
-- 📫 168allen55@gmail.com
+- 🎄 https://linktr.ee/eventon
 - 🧠 https://www.youtube.com/@IPromiseSmartContract
+- 📫 168allen55@gmail.com
 
 <!---
 ipromise2324/ipromise2324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipromise2324&show_icons=true&locale=en" alt="ipromise2324" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipromise2324&" alt="ipromise2324" /></p>
-https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg

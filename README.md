@@ -21,7 +21,7 @@
   <li><a href="https://www.youtube.com/clip/UgkxuXNcNKutYLyvdjmAIfHfj3yM4uGHHtUf">The Open League Hackathon - DeFi, 3rd Place</a></li>
   <li><a href="https://x.com/BuildOnTON/status/1779566487361163699">TON Hackhouse 2024 - 3rd Place</a></li>
   <li><a href="https://t.me/tontech/96">TonTech Challenge Winner</a></li>
-  <li><a href="https://x.com/BuildOnTON/status/1779566487361163699">TON Blogger</a></li>
+  <li><a href="https://medium.com/@ipromise2324">TON Blogger</a></li>
   <li>TON Taipei 2024 - 3rd Place</li>
   <li>TON Taipei 2023 - 3rd Place</li>
 </ul>

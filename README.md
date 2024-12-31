@@ -17,7 +17,8 @@
 
 <h3 align="left">Achievements and Awards:</h3>
 <ul>
-  <li><a href="https://github.com/ton-blockchain/ton/issues/1022">FunC Compiler Bug Bounty</a></li>
+  <li><a href="https://github.com/ton-blockchain/ton/issues/1022">FunC Compiler Bug Bounty (FunC 1 != 1)</a></li>
+  <li><a href="https://github.com/ton-blockchain/ton/issues/1283">FunC Compiler Bug Bounty (impure doesn't work)</a></li>
   <li><a href="https://www.youtube.com/clip/UgkxuXNcNKutYLyvdjmAIfHfj3yM4uGHHtUf">The Open League Hackathon - DeFi, 3rd Place</a></li>
   <li><a href="https://x.com/BuildOnTON/status/1779566487361163699">TON Hackhouse 2024 - 3rd Place</a></li>
   <li><a href="https://t.me/tontech/96">TonTech Challenge Winner</a></li>

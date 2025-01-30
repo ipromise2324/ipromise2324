@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxey Liu</h1>
-<h3 align="center">CTO of Perman Lab</h3>
+<h3 align="center">Head of Contract at Torch Finance</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ipromise2324&label=Profile%20views&color=0e75b6&style=flat" alt="ipromise2324" /> 

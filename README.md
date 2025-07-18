@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Maxey Liu</h1>
 <h3 align="center">Head of Contract at Torch Finance</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ipromise2324&label=Profile%20views&color=0e75b6&style=flat" alt="ipromise2324" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ipromise2324&label=Profile%20views&color=0e75b6&style=flat" alt="ipromise2324" />
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ipromise2324" alt="ipromise2324" />
-  </a> 
+  </a>
 </p>
 
-- 🌱 I’m currently learning **Smart Contract Auditing and TON Blockchain**
-- 💬 Ask me about **Solidity, Tact, and FunC**
-- 📫 How to reach me **168allen55@gmail.com**
+<h3 align="left">Current Work at Torch Finance:</h3>
+
+- [Stable Swap](https://t.me/torch_finance_bot): Enables low-slippage trading for assets such as LSTs and stablecoins. It is built on the Curve Stable Swap formula
+- [Telegram USD](https://t.me/tgusd_official_bot): A stablecoin backed by blue-chip assets such as USDT, built for Telegram users 
+
+📫 How to reach me: 
+- Email: 168allen55@gmail.com
+- Telegram: https://t.me/throwunless
 
 <h3 align="left">Achievements and Awards:</h3>
 <ul>
@@ -28,7 +33,7 @@
   <li>TON Taipei 2023 - 3rd Place</li>
 </ul>
 
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipromise2324&show_icons=true&locale=en" alt="ipromise2324" />
 </p>
+****

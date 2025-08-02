@@ -17,7 +17,7 @@
 - [Telegram USD](https://t.me/tgusd_official_bot): A stablecoin backed by blue-chip assets such as USDT, built for Telegram users 
 
 📫 How to reach me: 
-- Email: 168allen55@gmail.com
+- Email: maxeyliu2324@pm.me
 - Telegram: https://t.me/throwunless
 
 <h3 align="left">Achievements and Awards:</h3>

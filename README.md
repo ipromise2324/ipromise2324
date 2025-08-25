@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxey Liu</h1>
 <h3 align="center">Head of Contract at Torch Finance</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ipromise2324&label=Profile%20views&color=0e75b6&style=flat" alt="ipromise2324" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ipromise2324" alt="ipromise2324" />
-  </a>
-</p>
-
 <h3 align="left">Current Work at Torch Finance:</h3>
 
 - [Stable Swap](https://t.me/torch_finance_bot): Enables low-slippage trading for assets such as LSTs and stablecoins. It is built on the Curve Stable Swap formula

@@ -22,7 +22,3 @@
   <li>TON Taipei 2024 - 3rd Place</li>
   <li>TON Taipei 2023 - 3rd Place</li>
 </ul>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipromise2324&show_icons=true&locale=en" alt="ipromise2324" />
-</p>

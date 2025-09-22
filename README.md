@@ -4,7 +4,12 @@
 <h3 align="left">Current Work at Torch Finance:</h3>
 
 - [Stable Swap](https://t.me/torch_finance_bot): Enables low-slippage trading for assets such as LSTs and stablecoins. It is built on the Curve Stable Swap formula
-- [Telegram USD](https://t.me/tgusd_official_bot): A stablecoin backed by blue-chip assets such as USDT, built for Telegram users 
+- [Telegram USD](https://t.me/tgusd_official_bot): A stablecoin backed by blue-chip assets such as USDT, built for Telegram users
+
+<h3 align="left">Standards & Contributions:</h3>
+
+- [TEP-524: Tokenized Vaults Standard](https://github.com/ton-blockchain/TEPs/pull/524): Proposed standard for tokenized vaults on TON blockchain, adapting ERC-4626 principles to TON's async architecture
+
 
 📫 How to reach me: 
 - Email: maxeyliu2324@pm.me
